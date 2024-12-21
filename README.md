@@ -18,5 +18,11 @@ Kunjungi website ini di: [https://altiar66.github.io/Altiar66](https://altiar66.
 - **Desain Responsif**: Tampilan nyaman di perangkat desktop maupun mobile.
 - **Kontak**: Informasi kontak tersedia di bagian footer.
 
+## Teknologi yang Digunakan
+- **HTML**: Untuk struktur halaman.
+- **CSS**: Untuk styling dan responsivitas.
+- **JavaScript**: Untuk interaktivitas.
+
 ## Lisensi
 Proyek ini dilisensikan di bawah [MIT License](https://opensource.org/licenses/MIT).
+
