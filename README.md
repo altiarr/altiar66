@@ -6,7 +6,7 @@
 - Interaktivitas sederhana dengan JavaScript.
 
 ## Cara Akses
-Kunjungi website ini di: [https://username.github.io/Altiar66](https://username.github.io/Altiar66)
+Kunjungi website ini di: [https://altiar66.github.io/Altiar66](https://altiar66.github.io/Altiar66)
 
 ## Struktur File
 - `index.html`: Halaman utama website.
